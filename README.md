@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Damián Reyes Cortez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **freelance projects**
-
 - 🌱 I’m currently learning **Python, vue, react.js**
 
-- 👯 I’m looking to collaborate on **a full time job**
 
 - 🤝 I’m looking for help with **design ideas**
 
